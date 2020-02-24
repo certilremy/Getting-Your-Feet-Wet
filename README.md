@@ -1,24 +1,43 @@
-# README
+# A toy app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> First Rails app.
 
-Things you may want to cover:
+<p align="center">
+    <img src="rails.jpg">
+</p>
 
-* Ruby version
+This project is the first approach at using Ruby on Rails Framework. The purpose is to get a high-level overview of Ruby on Rails programming (and web development in general) by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on Rails
 
-* Database creation
 
-* Database initialization
+## Live Demo
 
-* How to run the test suite
+[Live Demo Link]()
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Authors
 
-* ...
+👤 **Ivan Ulises Guzman Sanchez**
+
+- Github: [@fivan18](https://github.com/fivan18)
+- Twitter: [@fivanunam](https://twitter.com/fivanunam)
+- Linkedin: [fivan](https://www.linkedin.com/in/fivan)
+
+👤 **Remy Certil**
+
+- Github: [@certilremy](https://github.com/certilremy)
+- Twitter: [@certilremy](https://twitter.com/certilremy)
+- Linkedin: [certilremy](https://linkedin.com/in/certilremy)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/certilremy/Getting-Your-Feet-Wet/issues).
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
